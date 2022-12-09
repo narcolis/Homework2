@@ -2,7 +2,7 @@
 You could change the file path of the dataset and run the code on google colab.
 
 What I have done:
-1)	Filled the “To-do” session in Homework-2.ipynb. Produced three h5 files with different required X{2%, 4%, 10%}, and I have uploaded those files.
+1)	Filled the “To-do” session in Homework_2_wz2295.ipynb. Produced three h5 files with different required X{2%, 4%, 10%}, and I have uploaded those files.
 
 Apply eval.py on them to get the acc and asr:
 
