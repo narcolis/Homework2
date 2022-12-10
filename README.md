@@ -7,10 +7,10 @@ What I have done:
 Apply eval.py on them to get the acc and asr:
 
 X= 2%
- <img width="233" alt="image" src="https://user-images.githubusercontent.com/58565205/206647346-c67ee75f-9f9c-46c1-8e1a-f5fe7d8eed01.png">
+ <img width="336" alt="image" src="https://user-images.githubusercontent.com/58565205/206823678-997ee597-f270-4efe-8058-f420cf0bd019.png">
 
 X= 4%
- <img width="227" alt="image" src="https://user-images.githubusercontent.com/58565205/206647356-6a9e536b-aea7-426e-979c-dd07fc33fbeb.png">
+ <img width="233" alt="image" src="https://user-images.githubusercontent.com/58565205/206647346-c67ee75f-9f9c-46c1-8e1a-f5fe7d8eed01.png">
 
 X= 10%
 <img width="227" alt="image" src="https://user-images.githubusercontent.com/58565205/206647502-827f79c2-e9ad-482f-87f6-0e4c0a8e24f5.png">
